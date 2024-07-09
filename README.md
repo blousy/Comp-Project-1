@@ -11,5 +11,7 @@
 8. Keep updating the data
 
    PDF - for human reference (doctor, specialist, non IT person)
+
+
    Json - for LLM training and retraining purposes to improve the model
    
