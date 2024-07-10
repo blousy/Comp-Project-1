@@ -18,8 +18,9 @@
 ## Technologies used 
 1. Python
 2. Streamlit
-3. FPDF
-4. Json
+3. OpenAI
+4. FPDF
+5. Json
 
 ## Future Directions :
 1. CrewAI integration for delegation or routing to another LLM (cardioLLM or DiabetesLLM)
